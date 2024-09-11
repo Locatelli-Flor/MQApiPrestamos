@@ -1,4 +1,7 @@
-## Para correrlo
+## Para correrlo dirigirse a la raíz del proyecto y:
+
+docker compose up
+
 npm i
 
 ts-node prestamosQueue.ts
